@@ -1,4 +1,7 @@
 # SA-02-WK2
+Date, 2024/03/31
+By, Gitau Agnes Njeri
+
 ### Case Swapper
 ## Description
 The case swapper is a javascript function that accepts a string as input and swaps the case of each character. For example, if you input 'The Quick Brown Fox', the output will be 'tHE qUICK bROWN fOX'.
@@ -46,4 +49,14 @@ To use the Prime Number Filter function, follow these steps:
  .`arr`(Array): The array of numbers to filter.
  .Returns:
   .(Array): A new array containing only the prime numbers from the original array.
+  ### Installation instructions
+  1. Clone this repository to your local environment
+  2. Open the terminal and navigate to this directory
+  3. Run the programs using node.js
+  4. Follow the prompts on each individual files
+## Installation requirements
+git node.js
+git clone https://github.com/njerigitao/SA-02-WK2
+
+  
   
