@@ -1,6 +1,10 @@
 # SA-02-WK2
 Date, 2024/03/31
 By, Gitau Agnes Njeri
+## Instructions
+1. Fork and clone this repo to your local environment
+2. Follow the prompts for each input as suggested on the README file
+3. Use 'node(name).js' to run each file
 ### Case Swapper
 ## Description
 The case swapper is a javascript function that accepts a string as input and swaps the case of each character. For example, if you input 'The Quick Brown Fox', the output will be 'tHE qUICK bROWN fOX'.
